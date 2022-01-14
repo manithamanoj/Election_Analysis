@@ -1,3 +1,18 @@
-Hello World Arapahoe, Denver, JeffersonArapahoe, Denver, JeffersonArapahoe
-Denver
-Jefferson
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
+2
+Winning Percentage: 73.8%
+-------------------------
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
