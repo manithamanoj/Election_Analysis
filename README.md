@@ -24,8 +24,9 @@ Pypoll
 # The analysis of the election shows that:
 
     *Total number of votes casted are 369,711
+     
+ <img width="605" alt="Screen Shot 2022-01-15 at 12 52 17 AM" src="https://user-images.githubusercontent.com/72629108/149615039-3d463711-ee1e-49db-88f4-beca5d389a2e.png">
 
-<img width="618" alt="Screen Shot 2022-01-15 at 12 53 59 AM" src="https://user-images.githubusercontent.com/72629108/149614868-89853233-ffcd-42c0-a13a-6cc44ac1ed0f.png">
 
 # The candidates were
 
@@ -59,7 +60,8 @@ Pypoll
     *Denver county put together 82.8% of voters, for a total of 306,055 voters.
     *Arapahoe county put together 6.7% of voters, for a total of 24,801 voters.
 
-    <img width="605" alt="Screen Shot 2022-01-15 at 12 52 35 AM" src="https://user-images.githubusercontent.com/72629108/149614835-85899ef7-2925-4605-8a7d-2b367c1d615a.png">
+  <img width="605" alt="Screen Shot 2022-01-15 at 12 51 46 AM" src="https://user-images.githubusercontent.com/72629108/149615076-b4d40803-05e7-4881-be46-ee26f3bbaf4e.png">
+
 
    <img width="605" alt="Screen Shot 2022-01-15 at 12 52 17 AM" src="https://user-images.githubusercontent.com/72629108/149614825-8fe8646e-01db-4fe6-b100-5b60cf43b3b9.png">
     
@@ -67,7 +69,8 @@ Pypoll
 
     *Denver, put together 82.8% of voters, for a total of 306,055 voters was the county with highest turnout
 
-  <img width="605" alt="Screen Shot 2022-01-15 at 12 51 46 AM" src="https://user-images.githubusercontent.com/72629108/149614814-cc565d5c-dbad-45eb-8016-55ac33f0aa3d.png">
+ <img width="605" alt="Screen Shot 2022-01-15 at 12 52 47 AM" src="https://user-images.githubusercontent.com/72629108/149615147-ac99cbfc-d416-431d-9bd8-af80d9248685.png">
+
 
     election_analysis.txt
 
