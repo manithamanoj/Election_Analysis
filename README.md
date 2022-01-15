@@ -25,7 +25,7 @@ Pypoll
 
     *Total number of votes casted are 369,711
 
-    Screen Shot 2022-01-15 at 12.53.59 AM
+<img width="618" alt="Screen Shot 2022-01-15 at 12 53 59 AM" src="https://user-images.githubusercontent.com/72629108/149614868-89853233-ffcd-42c0-a13a-6cc44ac1ed0f.png">
 
 # The candidates were
 
@@ -41,9 +41,9 @@ Pypoll
    *Diana DeGette: received 73.8% of the vote.
    *Raymon Anthony Doane: received 3.1% of the vote
 
-   Screen Shot 2022-01-15 at 12.53.41 AM
+  <img width="620" alt="Screen Shot 2022-01-15 at 12 53 41 AM" src="https://user-images.githubusercontent.com/72629108/149614859-51d00160-5e24-458f-a102-43c17c39fbfe.png">
 
-   Screen Shot 2022-01-15 at 12.53.25 AM
+  <img width="614" alt="Screen Shot 2022-01-15 at 12 53 25 AM" src="https://user-images.githubusercontent.com/72629108/149614843-df173ee4-74e1-45ee-abaa-d26d1160f10e.png">
 
 # The winner of the election was
 
@@ -59,19 +59,19 @@ Pypoll
     *Denver county put together 82.8% of voters, for a total of 306,055 voters.
     *Arapahoe county put together 6.7% of voters, for a total of 24,801 voters.
 
-    Screen Shot 2022-01-15 at 12.52.35 AM
+    <img width="605" alt="Screen Shot 2022-01-15 at 12 52 35 AM" src="https://user-images.githubusercontent.com/72629108/149614835-85899ef7-2925-4605-8a7d-2b367c1d615a.png">
 
-    Screen Shot 2022-01-15 at 12.52.17 AM
+   <img width="605" alt="Screen Shot 2022-01-15 at 12 52 17 AM" src="https://user-images.githubusercontent.com/72629108/149614825-8fe8646e-01db-4fe6-b100-5b60cf43b3b9.png">
     
 # The county with the highest turnout  
 
     *Denver, put together 82.8% of voters, for a total of 306,055 voters was the county with highest turnout
 
-    Screen Shot 2022-01-15 at 12.51.46 AM
+  <img width="605" alt="Screen Shot 2022-01-15 at 12 51 46 AM" src="https://user-images.githubusercontent.com/72629108/149614814-cc565d5c-dbad-45eb-8016-55ac33f0aa3d.png">
 
     election_analysis.txt
 
-     Screen Shot 2022-01-14 at 11.36.12 PM
+<img width="689" alt="Screen Shot 2022-01-14 at 11 36 12 PM" src="https://user-images.githubusercontent.com/72629108/149614808-ed5844f2-4fea-4d0d-a198-9bdbda7a6434.png">
 
 
 ## Election Audit Summary
