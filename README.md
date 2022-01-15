@@ -17,6 +17,7 @@ Pypoll
 # Resources
 
 *Data source- elections_results.csv
+
 *Software: Python 3.9,Visual Studio code
 
 # Election Audit Results 
@@ -32,14 +33,18 @@ Pypoll
 
 
     *Charles Casper Stockham
+    
     *Diana DeGette
+    
     *Raymon Anthony Doane
 
 ## The candidates results were
 
 
    *Charles Casper Stockham: received 23.0% of the vote.
+   
    *Diana DeGette: received 73.8% of the vote.
+   
    *Raymon Anthony Doane: received 3.1% of the vote
 
  
@@ -48,7 +53,9 @@ Pypoll
 ## The winner of the election was
 
    *Winner: Diana DeGette
+   
    *Winning Vote Count: 272,892
+   
    *Winning Percentage: 73.8%
    
    <img width="620" alt="Screen Shot 2022-01-15 at 12 53 41 AM" src="https://user-images.githubusercontent.com/72629108/149615262-33493934-80da-4132-ae03-82a08a61399c.png">
@@ -61,7 +68,9 @@ Pypoll
 ## The voter turnout for each county and the percentage of votes from each county out of the total count
       
     *Jefferson county  put together 10.5% of voters, for a total of 38,855 voters.
+    
     *Denver county put together 82.8% of voters, for a total of 306,055 voters.
+    
     *Arapahoe county put together 6.7% of voters, for a total of 24,801 voters
     
   <img width="605" alt="Screen Shot 2022-01-15 at 12 51 46 AM" src="https://user-images.githubusercontent.com/72629108/149615076-b4d40803-05e7-4881-be46-ee26f3bbaf4e.png">
