@@ -16,15 +16,15 @@ Pypoll
 
 # Resources
 
-*Data source- elections_results.csv
+* Data source- elections_results.csv
 
-*Software: Python 3.9,Visual Studio code
+* Software: Python 3.9,Visual Studio code
 
 # Election Audit Results 
 
 ## The analysis of the election shows that:
 
-    *Total number of votes casted are 369,711
+* Total number of votes casted are 369,711
      
  <img width="605" alt="Screen Shot 2022-01-15 at 12 52 17 AM" src="https://user-images.githubusercontent.com/72629108/149615039-3d463711-ee1e-49db-88f4-beca5d389a2e.png">
 
@@ -80,7 +80,7 @@ Pypoll
     
 ## The county with the highest turnout  
 
-    *Denver, put together 82.8% of voters, for a total of 306,055 voters was the county with highest turnout
+ * Denver, put together 82.8% of voters, for a total of 306,055 voters was the county with highest turnout
 
  <img width="605" alt="Screen Shot 2022-01-15 at 12 52 47 AM" src="https://user-images.githubusercontent.com/72629108/149615147-ac99cbfc-d416-431d-9bd8-af80d9248685.png">
 
