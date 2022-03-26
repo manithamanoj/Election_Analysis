@@ -4,11 +4,11 @@ Pypoll
 # Project Overview
    A Colarado board of Elections employee has given the following tasks to complete the election audit of a recent local congresional election. In this project, our final Python script will need to be able to deliver the following information when the script is run: 
 
-     *Total number of votes cast
-     *A complete list of candidates who received votes
-     *Total number of votes each candidate received
-     *Percentage of votes each candidate won
-     *The winner of the election based on popular vote
+* Total number of votes cast
+* A complete list of candidates who received votes
+* Total number of votes each candidate received
+* Percentage of votes each candidate won
+* The winner of the election based on popular vote
 
 # Challenge Overview
 
@@ -32,31 +32,31 @@ Pypoll
 ## The candidates were
 
 
-    *Charles Casper Stockham
+ * Charles Casper Stockham
     
-    *Diana DeGette
+ * Diana DeGette
     
-    *Raymon Anthony Doane
+ * Raymon Anthony Doane
 
 ## The candidates results were
 
 
-   *Charles Casper Stockham: received 23.0% of the vote.
+ * Charles Casper Stockham: received 23.0% of the vote.
    
-   *Diana DeGette: received 73.8% of the vote.
+ * Diana DeGette: received 73.8% of the vote.
    
-   *Raymon Anthony Doane: received 3.1% of the vote
+ * Raymon Anthony Doane: received 3.1% of the vote
 
  
  <img width="614" alt="Screen Shot 2022-01-15 at 12 53 25 AM" src="https://user-images.githubusercontent.com/72629108/149614843-df173ee4-74e1-45ee-abaa-d26d1160f10e.png">
 
 ## The winner of the election was
 
-   *Winner: Diana DeGette
+ * Winner: Diana DeGette
    
-   *Winning Vote Count: 272,892
+ * Winning Vote Count: 272,892
    
-   *Winning Percentage: 73.8%
+ * Winning Percentage: 73.8%
    
    <img width="620" alt="Screen Shot 2022-01-15 at 12 53 41 AM" src="https://user-images.githubusercontent.com/72629108/149615262-33493934-80da-4132-ae03-82a08a61399c.png">
 
@@ -67,11 +67,11 @@ Pypoll
 
 ## The voter turnout for each county and the percentage of votes from each county out of the total count
       
-    *Jefferson county  put together 10.5% of voters, for a total of 38,855 voters.
+  * Jefferson county  put together 10.5% of voters, for a total of 38,855 voters.
     
-    *Denver county put together 82.8% of voters, for a total of 306,055 voters.
+  * Denver county put together 82.8% of voters, for a total of 306,055 voters.
     
-    *Arapahoe county put together 6.7% of voters, for a total of 24,801 voters
+  * Arapahoe county put together 6.7% of voters, for a total of 24,801 voters
     
   <img width="605" alt="Screen Shot 2022-01-15 at 12 51 46 AM" src="https://user-images.githubusercontent.com/72629108/149615076-b4d40803-05e7-4881-be46-ee26f3bbaf4e.png">
 
