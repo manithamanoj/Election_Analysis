@@ -60,7 +60,7 @@ Pypoll
    
    <img width="620" alt="Screen Shot 2022-01-15 at 12 53 41 AM" src="https://user-images.githubusercontent.com/72629108/149615262-33493934-80da-4132-ae03-82a08a61399c.png">
 
-<img width="618" alt="Screen Shot 2022-01-15 at 12 53 59 AM" src="https://user-images.githubusercontent.com/72629108/149615274-f86a09b0-60dc-4c8f-ac39-a67eef77d8b2.png">
+   <img width="618" alt="Screen Shot 2022-01-15 at 12 53 59 AM" src="https://user-images.githubusercontent.com/72629108/149615274-f86a09b0-60dc-4c8f-ac39-a67eef77d8b2.png">
 
 
  
